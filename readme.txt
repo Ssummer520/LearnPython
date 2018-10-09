@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-readme大大是的 
+readme大大是的 阿萨德
